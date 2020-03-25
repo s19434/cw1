@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vera\\Desktop\\Cw1\\Cw1\\Cw1.csproj": {}
+    "C:\\Users\\Vera\\Desktop\\STUDY\\4 SEM\\APDB\\Zajęcia 1\\Cw1\\Cw1\\Cw1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vera\\Desktop\\Cw1\\Cw1\\Cw1.csproj": {
+    "C:\\Users\\Vera\\Desktop\\STUDY\\4 SEM\\APDB\\Zajęcia 1\\Cw1\\Cw1\\Cw1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vera\\Desktop\\Cw1\\Cw1\\Cw1.csproj",
+        "projectUniqueName": "C:\\Users\\Vera\\Desktop\\STUDY\\4 SEM\\APDB\\Zajęcia 1\\Cw1\\Cw1\\Cw1.csproj",
         "projectName": "Cw1",
-        "projectPath": "C:\\Users\\Vera\\Desktop\\Cw1\\Cw1\\Cw1.csproj",
+        "projectPath": "C:\\Users\\Vera\\Desktop\\STUDY\\4 SEM\\APDB\\Zajęcia 1\\Cw1\\Cw1\\Cw1.csproj",
         "packagesPath": "C:\\Users\\Vera\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vera\\Desktop\\Cw1\\Cw1\\obj\\",
+        "outputPath": "C:\\Users\\Vera\\Desktop\\STUDY\\4 SEM\\APDB\\Zajęcia 1\\Cw1\\Cw1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vera\\AppData\\Roaming\\NuGet\\NuGet.Config",

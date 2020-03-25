@@ -31,13 +31,11 @@ namespace Cwiczenia1
 
             }
 
-<<<<<<< HEAD
+
             Console.WriteLine("Hello World!");
-=======
-            Console.WriteLine("Hello");
-            wfafnjawjnfwjaknfnjkwaf
-            
->>>>>>> 17e0dfae3873f00c2c97c370ab4923724ff616bb
+
+
+
         }
     }
 }
