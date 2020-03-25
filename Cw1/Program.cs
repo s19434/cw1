@@ -31,7 +31,7 @@ namespace Cwiczenia1
 
             }
 
-            Console.WriteLine("Hello");
+            Console.WriteLine("Hello World!");
         }
     }
 }
