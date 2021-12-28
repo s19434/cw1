@@ -1,26 +1,39 @@
-C:\Users\Vera\Desktop\Cw1\Cw1\bin\Debug\netcoreapp3.1\Cw1.exe
-C:\Users\Vera\Desktop\Cw1\Cw1\bin\Debug\netcoreapp3.1\Cw1.deps.json
-C:\Users\Vera\Desktop\Cw1\Cw1\bin\Debug\netcoreapp3.1\Cw1.runtimeconfig.json
-C:\Users\Vera\Desktop\Cw1\Cw1\bin\Debug\netcoreapp3.1\Cw1.runtimeconfig.dev.json
-C:\Users\Vera\Desktop\Cw1\Cw1\bin\Debug\netcoreapp3.1\Cw1.dll
-C:\Users\Vera\Desktop\Cw1\Cw1\bin\Debug\netcoreapp3.1\Cw1.pdb
-C:\Users\Vera\Desktop\Cw1\Cw1\obj\Debug\netcoreapp3.1\Cw1.csprojAssemblyReference.cache
-C:\Users\Vera\Desktop\Cw1\Cw1\obj\Debug\netcoreapp3.1\Cw1.csproj.CoreCompileInputs.cache
-C:\Users\Vera\Desktop\Cw1\Cw1\obj\Debug\netcoreapp3.1\Cw1.AssemblyInfoInputs.cache
-C:\Users\Vera\Desktop\Cw1\Cw1\obj\Debug\netcoreapp3.1\Cw1.AssemblyInfo.cs
-C:\Users\Vera\Desktop\Cw1\Cw1\obj\Debug\netcoreapp3.1\Cw1.dll
-C:\Users\Vera\Desktop\Cw1\Cw1\obj\Debug\netcoreapp3.1\Cw1.pdb
-C:\Users\Vera\Desktop\Cw1\Cw1\obj\Debug\netcoreapp3.1\Cw1.genruntimeconfig.cache
-C:\Users\Vera\Desktop\STUDY\4 SEM\APDB\Zajęcia 1\Cw1\Cw1\obj\Debug\netcoreapp3.1\Cw1.csprojAssemblyReference.cache
-C:\Users\Vera\Desktop\STUDY\4 SEM\APDB\Zajęcia 1\Cw1\Cw1\obj\Debug\netcoreapp3.1\Cw1.csproj.CoreCompileInputs.cache
-C:\Users\Vera\Desktop\STUDY\4 SEM\APDB\Zajęcia 1\Cw1\Cw1\obj\Debug\netcoreapp3.1\Cw1.AssemblyInfoInputs.cache
-C:\Users\Vera\Desktop\STUDY\4 SEM\APDB\Zajęcia 1\Cw1\Cw1\obj\Debug\netcoreapp3.1\Cw1.AssemblyInfo.cs
-C:\Users\Vera\Desktop\STUDY\4 SEM\APDB\Zajęcia 1\Cw1\Cw1\obj\Debug\netcoreapp3.1\Cw1.dll
-C:\Users\Vera\Desktop\STUDY\4 SEM\APDB\Zajęcia 1\Cw1\Cw1\obj\Debug\netcoreapp3.1\Cw1.pdb
-C:\Users\Vera\Desktop\STUDY\4 SEM\APDB\Zajęcia 1\Cw1\Cw1\bin\Debug\netcoreapp3.1\Cw1.exe
-C:\Users\Vera\Desktop\STUDY\4 SEM\APDB\Zajęcia 1\Cw1\Cw1\bin\Debug\netcoreapp3.1\Cw1.deps.json
-C:\Users\Vera\Desktop\STUDY\4 SEM\APDB\Zajęcia 1\Cw1\Cw1\bin\Debug\netcoreapp3.1\Cw1.runtimeconfig.json
-C:\Users\Vera\Desktop\STUDY\4 SEM\APDB\Zajęcia 1\Cw1\Cw1\bin\Debug\netcoreapp3.1\Cw1.runtimeconfig.dev.json
-C:\Users\Vera\Desktop\STUDY\4 SEM\APDB\Zajęcia 1\Cw1\Cw1\bin\Debug\netcoreapp3.1\Cw1.dll
-C:\Users\Vera\Desktop\STUDY\4 SEM\APDB\Zajęcia 1\Cw1\Cw1\bin\Debug\netcoreapp3.1\Cw1.pdb
-C:\Users\Vera\Desktop\STUDY\4 SEM\APDB\Zajęcia 1\Cw1\Cw1\obj\Debug\netcoreapp3.1\Cw1.genruntimeconfig.cache
+C:/Users/Vera/Desktop/Cw1/Cw1/bin/Debug/netcoreapp3.1/Cw1.exe
+C:/Users/Vera/Desktop/Cw1/Cw1/bin/Debug/netcoreapp3.1/Cw1.deps.json
+C:/Users/Vera/Desktop/Cw1/Cw1/bin/Debug/netcoreapp3.1/Cw1.runtimeconfig.json
+C:/Users/Vera/Desktop/Cw1/Cw1/bin/Debug/netcoreapp3.1/Cw1.runtimeconfig.dev.json
+C:/Users/Vera/Desktop/Cw1/Cw1/bin/Debug/netcoreapp3.1/Cw1.dll
+C:/Users/Vera/Desktop/Cw1/Cw1/bin/Debug/netcoreapp3.1/Cw1.pdb
+C:/Users/Vera/Desktop/Cw1/Cw1/obj/Debug/netcoreapp3.1/Cw1.csprojAssemblyReference.cache
+C:/Users/Vera/Desktop/Cw1/Cw1/obj/Debug/netcoreapp3.1/Cw1.csproj.CoreCompileInputs.cache
+C:/Users/Vera/Desktop/Cw1/Cw1/obj/Debug/netcoreapp3.1/Cw1.AssemblyInfoInputs.cache
+C:/Users/Vera/Desktop/Cw1/Cw1/obj/Debug/netcoreapp3.1/Cw1.AssemblyInfo.cs
+C:/Users/Vera/Desktop/Cw1/Cw1/obj/Debug/netcoreapp3.1/Cw1.dll
+C:/Users/Vera/Desktop/Cw1/Cw1/obj/Debug/netcoreapp3.1/Cw1.pdb
+C:/Users/Vera/Desktop/Cw1/Cw1/obj/Debug/netcoreapp3.1/Cw1.genruntimeconfig.cache
+C:/Users/Vera/Desktop/STUDY/4 SEM/APDB/Zajęcia 1/Cw1/Cw1/obj/Debug/netcoreapp3.1/Cw1.csprojAssemblyReference.cache
+C:/Users/Vera/Desktop/STUDY/4 SEM/APDB/Zajęcia 1/Cw1/Cw1/obj/Debug/netcoreapp3.1/Cw1.csproj.CoreCompileInputs.cache
+C:/Users/Vera/Desktop/STUDY/4 SEM/APDB/Zajęcia 1/Cw1/Cw1/obj/Debug/netcoreapp3.1/Cw1.AssemblyInfoInputs.cache
+C:/Users/Vera/Desktop/STUDY/4 SEM/APDB/Zajęcia 1/Cw1/Cw1/obj/Debug/netcoreapp3.1/Cw1.AssemblyInfo.cs
+C:/Users/Vera/Desktop/STUDY/4 SEM/APDB/Zajęcia 1/Cw1/Cw1/obj/Debug/netcoreapp3.1/Cw1.dll
+C:/Users/Vera/Desktop/STUDY/4 SEM/APDB/Zajęcia 1/Cw1/Cw1/obj/Debug/netcoreapp3.1/Cw1.pdb
+C:/Users/Vera/Desktop/STUDY/4 SEM/APDB/Zajęcia 1/Cw1/Cw1/bin/Debug/netcoreapp3.1/Cw1.exe
+C:/Users/Vera/Desktop/STUDY/4 SEM/APDB/Zajęcia 1/Cw1/Cw1/bin/Debug/netcoreapp3.1/Cw1.deps.json
+C:/Users/Vera/Desktop/STUDY/4 SEM/APDB/Zajęcia 1/Cw1/Cw1/bin/Debug/netcoreapp3.1/Cw1.runtimeconfig.json
+C:/Users/Vera/Desktop/STUDY/4 SEM/APDB/Zajęcia 1/Cw1/Cw1/bin/Debug/netcoreapp3.1/Cw1.runtimeconfig.dev.json
+C:/Users/Vera/Desktop/STUDY/4 SEM/APDB/Zajęcia 1/Cw1/Cw1/bin/Debug/netcoreapp3.1/Cw1.dll
+C:/Users/Vera/Desktop/STUDY/4 SEM/APDB/Zajęcia 1/Cw1/Cw1/bin/Debug/netcoreapp3.1/Cw1.pdb
+C:/Users/Vera/Desktop/STUDY/4 SEM/APDB/Zajęcia 1/Cw1/Cw1/obj/Debug/netcoreapp3.1/Cw1.genruntimeconfig.cache
+/Users/alex/Projects/cw1/Cw1/bin/Debug/netcoreapp3.1/Cw1.deps.json
+/Users/alex/Projects/cw1/Cw1/bin/Debug/netcoreapp3.1/Cw1.runtimeconfig.json
+/Users/alex/Projects/cw1/Cw1/bin/Debug/netcoreapp3.1/Cw1.runtimeconfig.dev.json
+/Users/alex/Projects/cw1/Cw1/bin/Debug/netcoreapp3.1/Cw1.dll
+/Users/alex/Projects/cw1/Cw1/bin/Debug/netcoreapp3.1/Cw1.pdb
+/Users/alex/Projects/cw1/Cw1/obj/Debug/netcoreapp3.1/Cw1.csproj.AssemblyReference.cache
+/Users/alex/Projects/cw1/Cw1/obj/Debug/netcoreapp3.1/Cw1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Projects/cw1/Cw1/obj/Debug/netcoreapp3.1/Cw1.AssemblyInfoInputs.cache
+/Users/alex/Projects/cw1/Cw1/obj/Debug/netcoreapp3.1/Cw1.AssemblyInfo.cs
+/Users/alex/Projects/cw1/Cw1/obj/Debug/netcoreapp3.1/Cw1.csproj.CoreCompileInputs.cache
+/Users/alex/Projects/cw1/Cw1/obj/Debug/netcoreapp3.1/Cw1.dll
+/Users/alex/Projects/cw1/Cw1/obj/Debug/netcoreapp3.1/Cw1.pdb
+/Users/alex/Projects/cw1/Cw1/obj/Debug/netcoreapp3.1/Cw1.genruntimeconfig.cache

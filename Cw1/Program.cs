@@ -7,9 +7,9 @@ namespace Cwiczenia1
 {
     public class Program
     {
-        public static async Task Main(string[] args)
+        public static async Task Main(string[] args) 
         {
-            var url = "https://www.pja.edu.p";
+            var url = "https://www.pja.edu.pl" ;
 
             var client = new HttpClient();
             var result = await client.GetAsync(url);
