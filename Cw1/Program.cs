@@ -19,7 +19,6 @@ namespace Cwiczenia1
 
                 if (result.IsSuccessStatusCode)
                 {
-
                     string html = await result.Content.ReadAsStringAsync();
 
                     var regex = new Regex("[a-z]+[a-z0-9]*@[a-z0-9]+\\.[a-z]+",
